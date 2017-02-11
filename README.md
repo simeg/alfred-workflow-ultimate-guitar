@@ -14,7 +14,7 @@ Latest version: [v0.1.0](https://github.com/simeg/alfred-workflow-ultimate-guita
 ```
 ug <search term>
 ```
-The `<search term>` corresponds to what you would enter if you were searching on the Ultimate Guitar website. After inputting a search term and pressing enter a new tab in your default browser will open the result page on Ultimate Guitar's website.
+The `<search term>` corresponds to what you would enter if you were searching on the Ultimate Guitar website. After inputting a search term and pressing enter, a new tab in your default browser will open the result page on Ultimate Guitar's website.
 
 ## License
 (MIT) The license can be found in the [LICENSE](LICENSE.md) file.
